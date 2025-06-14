@@ -32,26 +32,18 @@ Bu web tabanlı uygulama, bir botanik bahçesinin bitki koleksiyonu, sergileri, 
 
 ## 📸 Ekran Görüntüleri
 
-eklicem.
+### Ana Menü
+![Ana Panel](screenshots/ss1.png)
+
+### Örnek Listeleme
+![Bitki Listeleme](screenshots/ss2.png)
+
+### Örnek Düzenle Sayfası
+![Etkinlik Ekleme](screenshots/ss3.png)
 
 ## 🎥 Tanıtım Videosu
 
 - [Tanıtım videosunu izlemek için tıklayın(henüz değil)]()
-
-## 📁 Klasör Yapısı
-
-```
-includes/        → Veritabanı bağlantı dosyası
-giris/           → Kullanıcı kayıt ve giriş sayfaları
-bitkiler/        → Bitki ekle/listele/sil/güncelle sayfaları
-sergiler/        → Sergi modülü
-etkinlikler/     → Etkinlik modülü
-bakim/           → Bakım planları
-ziyaretciler/    → Ziyaretçi modülü
-personel/        → Personel yönetimi
-
-dashboard.php    → Ana panel
-```
 
 ---
 
