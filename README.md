@@ -43,7 +43,7 @@ Bu web tabanlı uygulama, bir botanik bahçesinin bitki koleksiyonu, sergileri, 
 
 ## 🎥 Tanıtım Videosu
 
-- [Tanıtım videosunu izlemek için tıklayın(henüz değil)]()
+- [Tanıtım videosunu izlemek için tıklayın](https://www.youtube.com/watch?v=vKYwfDh2igc)
 
 ---
 
