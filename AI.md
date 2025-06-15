@@ -1,3 +1,4 @@
+[Sohbet Geçmişi](https://chatgpt.com/share/684e832c-f6fc-8010-b0ab-80351ca493a3)
 # ben
 
 foreign key constraint fails hatası alıyorum neden olabilir
